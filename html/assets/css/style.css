@@ -135,6 +135,7 @@ section {
   margin: 0 auto 30px auto;
   background: #BBEFEF;
   overflow: auto;
+  position: relative;
 }
 
 .blog-post img {
@@ -147,8 +148,10 @@ section {
   padding: 45px;
   float: left;
   width: 60%;
+  max-height: 300px;
   text-align: left;
-
+  overflow: hidden;
+  transition: max-height 0.5s ease;
 }
 
 .blog h3 {
@@ -174,3 +177,25 @@ section {
 .blog ol {
   margin-left: 25px;
 }
+
+.blog-post.expanded .blog {
+    max-height: none;
+}
+
+.read-more-btn {
+     background-color: #007bff;
+     color: white;
+     border: none;
+     padding: 5px 10px;
+     cursor: pointer;
+     text-align: center;
+     font-size: 12px;
+     position: absolute;
+     bottom: 5px;
+     right: 10px;
+}
+
+.read-more-btn:hover {
+    background-color: #082D49;
+}
+
