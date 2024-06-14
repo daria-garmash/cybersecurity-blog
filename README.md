@@ -1,5 +1,5 @@
 <h1>Personal Cybersecurity Blog</h1>
-This are src files for my <b> Personal Cybersecurity Blog </b>, which I developed as part of my <b>Monash Cybersecurity Bootcamp Project 1</b>.
+These are src files for my <b> Personal Cybersecurity Blog </b>, which I developed as part of my <b>Monash Cybersecurity Bootcamp Project 1</b>.
 <br></br>
 The purpose of the project is to apply the skills I acquired during he first half of the Bootcamp to secure and protect a cloud application that hosts my cybersecurity blog.
 
