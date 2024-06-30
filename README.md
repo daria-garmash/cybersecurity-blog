@@ -3,7 +3,7 @@ These are src files for my <b> Personal Cybersecurity Blog </b>, which I develop
 <br></br>
 The purpose of the project is to apply the skills I acquired during he first half of the Bootcamp to secure and protect a cloud application that hosts my cybersecurity blog.
 
-To access the application proceed to <a href="https://dgarmashsecurity.azurewebsites.net/">this page</a>.
+To access the application proceed to <a href="https://dgarmashsecurity.azurewebsites.net/">this page</a>. (<b>Upd:</b> The website is currently unavailable.)
 <br></br>
 <h3>3 major steps were taken to complete the project:</h3>
 <ul>
